@@ -1,22 +1,24 @@
 ### @activities 1
 # Grundlagen 1-1
+Wir programmieren den Calliope!!!
 
-## Introduction
+## Smiley beim Start
+### 
 
-### Introduction step
 
-## Activity 1
 
-### Step 1
-### Step 2
+## USB-Verbinden
+### Schritt 1
+Schliesse deinen Computer an den Calliope mit dem USB-Kabel an.
 
-## Activity 2
+## Programm herunterladen
 
-### Step 1
-### Step 2
-### Step 3
+### Verbinden 
+Klicke auf den Button mit den drei Punkten unten links ```|...|```. Wähle dort "Gerät verbinden" aus und folge dem Menu.
 
-## Activity 3
+### Programm herunterladen
+Klicke auf den Button ```|Herunterladen|``` und lade damit das Programm auf den Calliope.
 
-### Step 1
-### Finish
+
+
+
