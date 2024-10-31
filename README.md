@@ -1,4 +1,3 @@
-### @activities 1
 # Grundlagen 1-1
 Wir programmieren den Calliope!!!
 
