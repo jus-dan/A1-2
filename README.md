@@ -1,24 +1,21 @@
+### @activities 1
 
-> Diese Seite bei [https://jus-dan.github.io/a1-2/](https://jus-dan.github.io/a1-2/) öffnen
+## Introduction
 
-## Als Erweiterung verwenden
+### Introduction step
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+## Activity 1
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/jus-dan/a1-2** suchen und importieren
+### Step 1
+### Step 2
 
-## Dieses Projekt bearbeiten
+## Activity 2
 
-Um dieses Repository in MakeCode zu bearbeiten.
+### Step 1
+### Step 2
+### Step 3
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/jus-dan/a1-2** ein und klicke auf Importieren
+## Activity 3
 
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+### Step 1
+### Finish
