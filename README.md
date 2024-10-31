@@ -3,7 +3,8 @@
 
 ## Smiley beim Start
 Wir programmieren den Calliope!!!
-### Grundlagen
+
+## Grundlagen
 Ziehe den Block 
 
 ```blocks
