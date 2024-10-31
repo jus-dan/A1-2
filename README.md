@@ -1,9 +1,14 @@
 # Grundlagen 1-1
-Wir programmieren den Calliope!!!
+
 
 ## Smiley beim Start
-### 
+Wir programmieren den Calliope!!!
+### Grundlagen
+Ziehe den Block 
 
+```blocks
+basic.showIcon(IconNames.Heart)
+```
 
 
 ## USB-Verbinden
